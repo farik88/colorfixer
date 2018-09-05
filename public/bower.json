@@ -1,0 +1,22 @@
+{
+  "name": "public",
+  "authors": [
+    "alexzitfan <alex.za@itfan.com.ua>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "font-awesome": "^4.7.0",
+    "owl.carousel": "^2.2.1"
+  }
+}

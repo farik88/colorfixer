@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'title-1' => 'Estimate',
+    'title-2' => 'Insurance company review',
+    'title-3' => 'Order parts',
+    'title-4' => 'Disassembly',
+    'title-5' => 'Vehicle repair',
+    'title-6' => 'Vihicle paint',
+    'title-7' => 'Reassembly',
+    'title-8' => 'Clean-up',
+    'title-9' => 'Completed',
+    'text-1' => 'In the estimade process area the vehicle is inspected and relevant data is entered into the estimate computer systems.  This data is compiled into an estimate that determines the cost of repair. Provide contact info for updates via phone, email, or text.',
+    'text-2' => 'Once the estimate is completed, the insurance company will review the estimate and give authorization. Once this process is completed, the vehicle begins the actual repair process.',
+    'text-3' => "The required parts for you vehicle are ordered, and availability Is checked, if a part needs to be special ordered, the order will be placed as soon as possible. Although many parts may arrive very quickly, the repair process can not begin until the shop receives all of the structural parts.",
+    'text-4' => 'Vehicle taken apart to identify all damage.',
+    'text-5' => 'The body repair department replaces and repairs exterior panel, and all metal finishing that may be required. The vehicle begins to come back to life as sheet metal is installed and aligned. From here the vehicle will go to the paint preparation department.',
+    'text-6' => 'Painting preparation is a critical step in the refinishing process of every vehicle. All involved panels are prepared for paint, then primed and clear coats of paint are applied. Paint is baked on in our downdraft paint booths.',
+    'text-7' => 'Final moldings and trim are put back on the vehicle in the reassembly stage. All the vehicle’s systems are checked during this process. Service repairs, fronted alignment, etc. are done at this time.',
+    'text-8' => 'After repairs are completed, the vehicle will be washed. The vehicle then will go trough our quality control process, assuring that the vehicle is restored to it’s pre-accident condition.',
+    'text-9' => 'Pick up your vehicle on time. Get back to the rhythm of your life.',
+    'sub-text-1' => '',
+    'sub-text-2' => '',
+    'sub-text-3' => '',
+    'sub-text-4' => '',
+    'sub-text-5' => '',
+    'sub-text-6' => '',
+    'sub-text-7' => '',
+    'sub-text-8' => '',
+    'sub-text-9' => ''
+];
